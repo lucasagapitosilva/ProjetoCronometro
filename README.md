@@ -1,3 +1,7 @@
+Visite: 👉👉👉 https://projeto-cronometro-ochre.vercel.app/ 👈👈👈
+
+Projeto feito com as tecnologias de React Js, depois de um bom tempo sem publicar algo eu vim aqui trazer esse pequeno projeto para afinar as minhas práticas...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
